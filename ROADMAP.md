@@ -12,10 +12,10 @@
 
 ## Next
 
-- [ ] Upload the reviewed full-suite public demo video
+- [x] Upload the reviewed full-suite public demo video to the Shop Boost Labs website
 - [x] Add GitHub Sponsors funding configuration
 - [ ] GitHub Sponsors profile approval / Sponsor button availability
-- [ ] Complete final public media review after video upload
+- [x] Complete final public media review after video upload
 - [ ] Pin this repository on the GitHub profile
 - [ ] Update app-review status only when Shopify sends a real outcome
 - [ ] Continue product improvements after review and merchant feedback
