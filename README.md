@@ -165,7 +165,13 @@ Do not send passwords, API keys, access tokens, or other credentials by email.
 
 ## Collaboration and sponsorship
 
-Shop Boost Labs is being built as an independent Shopify-app venture. If you want to support development, use the GitHub **Sponsor** button after the `Yoyogino` GitHub Sponsors profile is active. Official website: **https://shopboostlabs.com**
+Shop Boost Labs is being built as an independent Shopify-app venture.
+
+❤️ **Support the work:** https://github.com/sponsors/Yoyogino
+
+Sponsorship helps fund public documentation, testing, security improvements, demos, infrastructure, and continued development of useful developer and merchant resources.
+
+Official website: **https://shopboostlabs.com**
 
 ---
 
