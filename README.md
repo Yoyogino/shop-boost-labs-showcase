@@ -170,3 +170,12 @@ Shop Boost Labs is being built as an independent Shopify-app venture. If you wan
 ---
 
 Shop Boost Labs · Focused Shopify tools for practical ecommerce work.
+
+
+## Repository guides
+
+- [Architecture](ARCHITECTURE.md)
+- [Public roadmap](ROADMAP.md)
+- [Security policy](SECURITY.md)
+- [Contributing](CONTRIBUTING.md)
+- [Public release checklist](PUBLIC_RELEASE_CHECKLIST.md)
