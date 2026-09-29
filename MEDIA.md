@@ -39,6 +39,14 @@ Before the final video is added:
 3. confirm no sensitive browser URL/query string is exposed,
 4. add the final repository file to this register.
 
+
+Reviewed DemoSBL asset fingerprint:
+- SHA-256: `5c1fc52dafe74021065a4e9eaee8ba4631951e192fc4c3497e48c33fb4ebfc11`
+- size: 9,014,457 bytes
+- video: H.264, 960×540, 30 fps
+- audio: AAC
+- duration: approximately 5:45
+
 ## Rule
 
 No media is considered approved merely because it exists in a private project folder. Public release is a separate decision.
