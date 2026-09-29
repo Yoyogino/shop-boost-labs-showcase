@@ -2,6 +2,8 @@
 
 Practical Shopify apps for product research, SEO workflows, and supplier-powered dropshipping.
 
+**Website:** https://shopboostlabs.com
+
 > This repository is the public showcase for Shop Boost Labs. Production application source code, secrets, credentials, and private infrastructure details remain in separate private repositories.
 
 ## What we build
@@ -11,7 +13,8 @@ Shop Boost Labs is building a focused suite of Shopify tools for merchants who w
 ### ShopBoost Product Tracker
 
 **Status:** Live  
-**Pricing:** Free
+**Pricing:** Free  
+**Shopify App Store:** https://apps.shopify.com/shopboost-product-tracker
 
 Product Finder helps merchants organize product research, track opportunities, and make margin-focused decisions inside a structured workflow.
 
