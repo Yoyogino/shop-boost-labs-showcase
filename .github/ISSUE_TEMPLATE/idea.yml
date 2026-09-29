@@ -1,0 +1,21 @@
+name: Product or showcase idea
+description: Share a non-sensitive idea for Shop Boost Labs
+title: "[Idea] "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please keep this public issue free of store credentials, merchant data, API keys, tokens, or private implementation details.
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem or opportunity does this address?
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: Suggested idea
+    validations:
+      required: true
