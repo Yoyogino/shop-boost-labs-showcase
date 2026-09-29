@@ -20,6 +20,7 @@ Run this checklist before adding any new file, screenshot, demo, or document to 
 - [ ] Media represents the intended public product workflow
 
 ## Repository
+- [ ] `.github/FUNDING.yml` points only to the intended GitHub Sponsors account
 - [ ] README still describes current public status accurately
 - [ ] SECURITY.md remains present
 - [ ] CONTRIBUTING.md remains present
