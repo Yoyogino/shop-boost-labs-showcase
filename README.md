@@ -63,7 +63,7 @@ The demo covers:
 2. SEO Issue Tracker
 3. ShopBoost Dropshipping
 
-Prepared public demo asset: `Demo-web-public.mp4` (960×540, H.264/AAC, approximately 5:45). Sampled public-version frames were visually reviewed before publication prep; no visible API key, access token, password, database URL, or supplier credential was observed in the reviewed frames. Upload the video only to the public showcase / website destination after the final repository-level media check.
+Prepared public demo asset: **DemoSBL** (960×540, H.264/AAC, approximately 5:45). Sampled public-version frames were visually reviewed before publication prep; no visible API key, access token, password, database URL, or supplier credential was observed in the reviewed frames. Upload the video only to the public showcase / website destination after the final repository-level media check.
 
 ## Product media
 
