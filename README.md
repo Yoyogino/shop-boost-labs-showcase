@@ -179,3 +179,4 @@ Shop Boost Labs · Focused Shopify tools for practical ecommerce work.
 - [Security policy](SECURITY.md)
 - [Contributing](CONTRIBUTING.md)
 - [Public release checklist](PUBLIC_RELEASE_CHECKLIST.md)
+- [Public media register](MEDIA.md)
