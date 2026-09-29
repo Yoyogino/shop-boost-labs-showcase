@@ -27,7 +27,7 @@ Do not add media containing:
 ## Demo video
 
 Prepared public demo:
-- source/export name: `Demo-web-public.mp4`
+- public demo title/source: **DemoSBL**
 - website destination: `public/media/shop-boost-labs-demo.mp4`
 - optimized format: H.264 video + AAC audio
 - intended role: one full-suite walkthrough covering all three Shop Boost Labs products
