@@ -63,7 +63,7 @@ The demo covers:
 2. SEO Issue Tracker
 3. ShopBoost Dropshipping
 
-Prepared public demo asset: **DemoSBL** (960×540, H.264/AAC, approximately 5:45). Sampled public-version frames were visually reviewed before publication prep; no visible API key, access token, password, database URL, or supplier credential was observed in the reviewed frames. Upload the video only to the public showcase / website destination after the final repository-level media check.
+**DemoSBL** is the public full-suite walkthrough (960×540, H.264/AAC, approximately 5:45). The reviewed asset is deployed through the official Shop Boost Labs website at the homepage demo section. Sampled frames were reviewed for obvious credential exposure before deployment.
 
 ## Product media
 
