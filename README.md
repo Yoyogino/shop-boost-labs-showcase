@@ -65,6 +65,8 @@ The demo covers:
 
 **DemoSBL** is the public full-suite walkthrough (960×540, H.264/AAC, approximately 5:45). The reviewed asset is deployed through the official Shop Boost Labs website at the homepage demo section. Sampled frames were reviewed for obvious credential exposure before deployment.
 
+**Watch DemoSBL:** https://shopboostlabs.com/#demos
+
 ## Product media
 
 ### ShopBoost Product Tracker
@@ -133,13 +135,15 @@ High-level technologies used across Shop Boost Labs include:
 - ✅ Security and repository organization pass completed
 - ✅ Production architecture documented
 - ✅ Public-showcase security boundaries defined
+- ✅ DemoSBL reviewed, uploaded, and deployed
 
 ## Roadmap
 
-- Upload the final public full-suite demo video
-- Complete final website desktop/mobile QA
-- Add public sponsorship / collaboration information
-- Respond to Shopify review feedback if requested
+- ✅ DemoSBL full-suite walkthrough deployed on the official website
+- ✅ Public sponsorship / collaboration information added
+- ⏳ Complete final real-browser desktop/mobile QA
+- ⏳ Wait for GitHub Sponsors profile approval and verify the Sponsor button
+- ⏳ Respond to Shopify review feedback only if requested
 - Continue improving products after review and merchant feedback
 
 ## Security and privacy approach
