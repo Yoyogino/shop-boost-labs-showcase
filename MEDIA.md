@@ -31,13 +31,13 @@ Prepared public demo:
 - website destination: `public/media/shop-boost-labs-demo.mp4`
 - optimized format: H.264 video + AAC audio
 - intended role: one full-suite walkthrough covering all three Shop Boost Labs products
-- current status: prepared, but not yet physically uploaded to the public website/showcase destination
+- current status: uploaded to the website repository at `public/media/shop-boost-labs-demo.mp4`; upload commit passed website checks and deployed successfully on Render
 
-Before the final video is added:
-1. visually inspect the public export,
-2. confirm no secret-bearing screen is visible,
-3. confirm no sensitive browser URL/query string is exposed,
-4. add the final repository file to this register.
+Final video review completed before deployment:
+1. sampled frames were visually inspected,
+2. no obvious secret-bearing screen was observed in the reviewed samples,
+3. no sensitive browser URL/query string was observed in the reviewed samples,
+4. the reviewed asset fingerprint is recorded below.
 
 
 Reviewed DemoSBL asset fingerprint:
