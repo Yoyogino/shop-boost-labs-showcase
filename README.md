@@ -16,7 +16,7 @@ Shop Boost Labs is building a focused suite of Shopify tools for merchants who w
 **Pricing:** Free  
 **Shopify App Store:** https://apps.shopify.com/shopboost-product-tracker
 
-Product Finder helps merchants organize product research, track opportunities, and make margin-focused decisions inside a structured workflow.
+ShopBoost Product Tracker helps merchants organize product research, track opportunities, and make margin-focused decisions inside a structured workflow.
 
 Highlights:
 - Product discovery and research
