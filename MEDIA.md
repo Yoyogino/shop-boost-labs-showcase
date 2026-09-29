@@ -27,9 +27,11 @@ Do not add media containing:
 ## Demo video
 
 Prepared public demo:
-- intended public file: `Demo-web-public.mp4`
+- source/export name: `Demo-web-public.mp4`
+- website destination: `public/media/shop-boost-labs-demo.mp4`
 - optimized format: H.264 video + AAC audio
 - intended role: one full-suite walkthrough covering all three Shop Boost Labs products
+- current status: prepared, but not yet physically uploaded to the public website/showcase destination
 
 Before the final video is added:
 1. visually inspect the public export,
