@@ -13,7 +13,8 @@
 ## Next
 
 - [ ] Upload the reviewed full-suite public demo video
-- [ ] Finish GitHub Sponsors account activation and add the Sponsor button
+- [x] Add GitHub Sponsors funding configuration
+- [ ] GitHub Sponsors profile approval / Sponsor button availability
 - [ ] Complete final public media review after video upload
 - [ ] Pin this repository on the GitHub profile
 - [ ] Update app-review status only when Shopify sends a real outcome
